@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"  alt="GraphQL logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  alt="Webpack logo" width="50" height="50"/>
 </div>
+
+<br>
+<br>
+<a href="https://app.daily.dev/ghost1129"><img src="https://api.daily.dev/devcards/v2/_X_dZm7jpX.png?r=rd5" width="356" alt="Devansh Lodhi's Dev Card"/></a>
