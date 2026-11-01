@@ -8,11 +8,11 @@
 <summary><b>💼 &nbsp;I'm a recruiter / founder: give me the 10-second version</b></summary>
 <br/>
 
-> **Devansh Lodhi** · Web developer at **[NxtJob.ai](https://nxtjob.ai)** · India
+> **Devansh Lodhi** · SDE at **[NxtJob.ai](https://nxtjob.ai)** · India
 >
-> I ship the stuff job-seekers actually touch: an AI resume builder, a Chrome extension that fills job applications for you, and the internal ERP that runs the business.
+> I work across every NxtJob repo: the web apps, the backend APIs, serverless, the Chrome extension and the internal ERP. If it ships at NxtJob, I've probably had my hands in it.
 >
-> **Strongest at:** Next.js · React · TypeScript · Tailwind · motion-heavy UI
+> **Strongest at:** Next.js · React · TypeScript · Node · end-to-end product work
 > **Portfolio:** [devanshlodhi.pro](https://devanshlodhi.pro) &nbsp;·&nbsp; **Email:** [devansh@nxtjob.ai](mailto:devansh@nxtjob.ai)
 
 </details>
@@ -34,6 +34,7 @@ Commands:
   coffee              required dependency, no known alternative
 
 Options:
+  --scope     every nxtjob repo, frontend to backend
   --stack     next, react, typescript, tailwind, redux, zustand, plasmo, node, express
   --vibe      dark mode only
   --version   always learning, never 1.0
@@ -52,10 +53,10 @@ Options:
 + d4e5f6a  feat: discovered React, never looked back
 + 7890abc  fix: center a div (attempt #47, success)
 + bcd1234  feat: joined NxtJob.ai to fix job hunting
-+ ef56789  feat: built a Chrome extension that fills job forms for you
-+ 0a1b2c3  feat: AI resume builder with a chat sidebar
++ ef56789  feat: promoted to SDE, got write access to every repo 🔑
++ 0a1b2c3  refactor: stopped saying "that's not my repo"
 - 4d5e6f7  revert: "sleep schedule"
-+ HEAD     wip: making it all one click
++ HEAD     wip: web, api, serverless, extension, erp… all at once
 ```
 
 </details>
@@ -91,23 +92,24 @@ Options:
 </tr>
 </table>
 
-## 🏗️ Currently building at NxtJob
+## 🗺️ My territory at NxtJob: all of it
 
 ```mermaid
-flowchart LR
-    U(("🧑 Job seeker")) --> R["🧠 AI Resume Builder"]
-    R --> E["🧩 Autofill Extension"]
-    E --> P["🌐 Workday · Greenhouse · SuccessFactors"]
-    P --> H(("🎉 Hired"))
-    C["👥 Community"] -.-> U
-    ERP["📊 ERP"] -.keeps the lights on.-> R
+flowchart TB
+    D(("🧑‍💻 me"))
+    D --> W["🌐 Web apps<br/>Next.js · React"]
+    D --> A["⚙️ Backend APIs<br/>Node · TypeScript"]
+    D --> S["☁️ Serverless"]
+    D --> X["🧩 Chrome extension<br/>Plasmo"]
+    D --> E["📊 Internal ERP"]
+    W & A & S & X & E --> U(("🎉 Job seekers get hired"))
 ```
 
 ## 🏆 Achievements unlocked
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯-Centered_a_div-a78bfa?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧩-Shipped_a_Chrome_extension-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔑-Commits_in_every_NxtJob_repo-22d3ee?style=flat-square" />
   <img src="https://img.shields.io/badge/🌙-Dark_mode_enjoyer-24243e?style=flat-square" />
   <img src="https://img.shields.io/badge/✨-Framer_Motion_addict-f472b6?style=flat-square" />
   <img src="https://img.shields.io/badge/📦-75+_public_repos-4ade80?style=flat-square" />
