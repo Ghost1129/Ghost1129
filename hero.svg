@@ -43,12 +43,12 @@
   <!-- line 1: whoami -->
   <text x="30" y="78"><tspan class="p">➜ ~</tspan><tspan class="c"> whoami</tspan></text>
   <rect class="type" x="72" y="62" width="200" height="22" fill="#0b0b14" style="animation-delay:.4s, 1.3s"/>
-  <text class="out" x="30" y="106" style="animation-delay:1.5s"><tspan class="hi">Devansh Lodhi</tspan><tspan class="o"> · web developer @ </tspan><tspan class="pk">NxtJob.ai</tspan><tspan class="o"> · India 🇮🇳</tspan></text>
+  <text class="out" x="30" y="106" style="animation-delay:1.5s"><tspan class="hi">Devansh Lodhi</tspan><tspan class="o"> · SDE @ </tspan><tspan class="pk">NxtJob.ai</tspan><tspan class="o"> · India 🇮🇳</tspan></text>
 
-  <!-- line 2: ls -->
-  <text x="30" y="146"><tspan class="p">➜ ~</tspan><tspan class="c"> ls ./shipping</tspan></text>
+  <!-- line 2: ls repos -->
+  <text x="30" y="146"><tspan class="p">➜ ~</tspan><tspan class="c"> ls ~/nxtjob</tspan></text>
   <rect class="type" x="72" y="130" width="200" height="22" fill="#0b0b14" style="animation-delay:2.1s, 3s"/>
-  <text class="out" x="30" y="174" style="animation-delay:3.2s"><tspan class="gr">resume-builder/</tspan><tspan class="yl">   chrome-autofill/</tspan><tspan class="pk">   erp/</tspan><tspan class="hi">   community/</tspan></text>
+  <text class="out" x="30" y="174" style="animation-delay:3.2s"><tspan class="gr">web/</tspan><tspan class="yl">   api/</tspan><tspan class="pk">   serverless/</tspan><tspan class="hi">   extension/</tspan><tspan class="gr">   erp/</tspan><tspan class="o">   # yes, all of them</tspan></text>
 
   <!-- line 3: cat -->
   <text x="30" y="214"><tspan class="p">➜ ~</tspan><tspan class="c"> cat ./mission.txt</tspan></text>
